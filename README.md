@@ -64,7 +64,7 @@ Prototype objects are provided for some of the most useful protocols (see the RF
 * Lighting5
 * Lighting6
 
-Each prototype has a constructor, most of which must be called with the required subtype as a second parameter.
+Each prototype has a constructor, each of which must be called with the required subtype as a second parameter.
 The subtypes are exported from `index.js` and can be accessed as shown in the examples below. Each prototype has
 functions to send the appropriate commands. File `DeviceCommands.md` contains a quick reference to all these transmitter
 prototype objects.
